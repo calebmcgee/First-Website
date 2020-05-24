@@ -1,10 +1,12 @@
 
 .list {
     font-size: larger;
-    
-} 
-.body {
-    background-color: aquamarine;
+    color: white;
 }
-
-
+.body {
+    background-color: #52b788;
+}
+.border {
+    display: grid;
+    grid-template-columns:250px 250px;
+}
