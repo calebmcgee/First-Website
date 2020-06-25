@@ -4,6 +4,13 @@
         color: white;
     }
 
+    .words2{
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+        position: ;
+        text-align: right;
+    }
+
     #splash {
         background-image: url("xbox.jpg");
         background-size: cover;
